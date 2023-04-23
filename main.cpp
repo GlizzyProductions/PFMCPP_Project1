@@ -52,85 +52,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       house
+//  action 1:   the house provides shelter
+house.provideShelter();
+//  action 2:   the house appreciates in value // 
+house.appreciateInValue();
+//  action 3:   the house deteriorates over time
+house.deteriorateOverTime();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       computer  
+//  action 1:   the computer boots up 
+computer.bootUp();
+//  action 2:   the computer overheats
+computer.overheat();
+//  action 3:   the computer shuts down
+computer.shutDown();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       andrew
+//  action 1:   andrew runs errand
+andrew.runErrand();
+//  action 2:   andrew pays cashier
+andrew.payCashier();
+//  action 3:   andrew relaxes
+andrew.relax();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       america
+//  action 1:   america holds election
+america.holdElection();
+//  action 2:   america votes for president
+america.voteForPresident();
+//  action 3:   america placates citizens
+america.placateCitizens();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       camera
+//  action 1:   the camera displays menu
+camera.displayMenu();
+//  action 2:   the camera captures image
+camera.captureImage();
+//  action 3:   the camera exports file
+camera.exportFile();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       julianne
+//  action 1:   julianne wears makeup
+julianne.wearMakeup();
+//  action 2:   julianne selects outfit
+julianne.selectOutfit();
+//  action 3:   julianne decides to excessorize
+julianne.decideToExcessorize();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       greyhound bus
+//  action 1:   greyhound bus runs engine
+greyhoundBus.runEngine();
+//  action 2:   greyhound bus accelerates speed
+greyhoundBus.accelerateSpeed();
+//  action 3:   greyhound bus locks front door
+greyhoundBus.lockFrontDoor();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       basketball
+//  action 1:   the basketball sits stationary
+basketball.sitStationary();
+//  action 2:   the basketball rotates
+basketball.rotate();
+//  action 3:   the basketball looses air
+basketball.loseAir();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       jon stewart
+//  action 1:   jon stewart makes political jokes
+jonStewart.makePoliticalJoke();
+//  action 2:   jon stewart attacks fox news
+jonStewart.attackFoxNews();
+//  action 3:   jon stewart lobbies for veterans
+jonStewart.lobbyForVeteran();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       mexico
+//  action 1:   mexico celebrates dia de muertos
+mexico.celebrateDiaDeMuertos();
+//  action 2:   mexico issues travel warning
+mexico.issueTravelWarning();
+//  action 3:   mexicco closes boarder
+mexico.closeBoarder();
 
 
 #endif
