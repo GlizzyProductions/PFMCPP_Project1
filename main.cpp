@@ -55,7 +55,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  Noun:       house
 //  action 1:   the house provides shelter
 house.provideShelter();
-//  action 2:   the house appreciates in value
+//  action 2:   the house appreciates in value // 
 house.appreciateInValue();
 //  action 3:   the house deteriorates over time
 house.deteriorateOverTime();
