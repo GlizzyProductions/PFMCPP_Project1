@@ -101,13 +101,13 @@ julianne.selectOutfit();
 //  action 3:   julianne decides to excessorize
 julianne.decideToExcessorize();
 //  7)
-//  Noun:       thailand
-//  action 1:   thailand welcomes tourism
-thailand.welcomeTourism();
-//  action 2:   thailand issues temp visa
-thailand.issueTempVisa();
-//  action 3:   thailand profits from tourist
-thailand.profitFromTourist();
+//  Noun:       greyhound bus
+//  action 1:   greyhound bus runs engine
+greyhoundBus.runEngine();
+//  action 2:   greyhound bus accelerates speed
+greyhoundBus.accelerateSpeed();
+//  action 3:   greyhound bus locks front door
+greyhoundBus.lockFrontDoor();
 //  8)
 //  Noun:       basketball
 //  action 1:   the basketball sits stationary
